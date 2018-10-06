@@ -56,7 +56,7 @@ GameObject:
   - component: {fileID: 33009657116547034}
   - component: {fileID: 23333795127691880}
   - component: {fileID: 65516368789351900}
-  - component: {fileID: 114678980447031830}
+  - component: {fileID: 114142395682263804}
   m_Layer: 0
   m_Name: CarPrefab
   m_TagString: CarTag
@@ -144,7 +144,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1571435269968668}
   m_LocalRotation: {x: -6.123234e-17, y: 1, z: 6.123234e-17, w: -3.7493994e-33}
-  m_LocalPosition: {x: 3.4, y: 0.52, z: -115}
+  m_LocalPosition: {x: 3.4, y: 0.52, z: 82}
   m_LocalScale: {x: 1.4, y: 1.2, z: 1.4}
   m_Children:
   - {fileID: 4778291172421116}
@@ -384,7 +384,7 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.8, y: 1, z: 0.7}
   m_Center: {x: 0, y: 0.4, z: -0.7}
---- !u!114 &114678980447031830
+--- !u!114 &114142395682263804
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -392,6 +392,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 1571435269968668}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b2337d24347232444859bb8bf75d877a, type: 3}
+  m_Script: {fileID: 11500000, guid: 7e3cc38f6168bf44682f757207465826, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
